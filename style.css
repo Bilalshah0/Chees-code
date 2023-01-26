@@ -1,0 +1,492 @@
+
+.main {
+    background-color:white;
+    margin: 0px auto;
+    padding: 10px;
+  width: 100%;
+
+}
+
+.edit{
+    width: 75%;
+    margin: 0px auto;
+    padding: 10px;
+}
+
+h1{
+    color: rgb(240, 231, 157);
+    text-align: center;
+    margin: 0 auto;
+    background-color: black;
+}
+
+.chess {
+    float: left;
+    margin: 0px auto;
+}
+
+.chess-rok{
+    float: left;
+    background-color:crimson;
+        
+}
+
+.chess-rok > sub {
+    vertical-align: top;
+}
+
+.chess-knight {
+    float: left;
+    background-color: darkolivegreen;
+    
+}
+
+.bishop{
+    float: left;
+    background-color: lightyellow;
+
+}
+
+.king{
+    float: left;
+    background-color: darkolivegreen;
+
+
+}
+
+.chess-queen{
+    float: left;
+    background-color:rgb(240, 231, 157)  ;
+
+}
+
+.bishop2{
+    background-color:darkolivegreen ;
+    float: left;
+}
+
+.chess-knight2{
+    float: left;
+    background-color:rgb(240, 231, 157) ;
+
+
+}
+
+.secondline{
+    float: left;
+
+}
+
+.second1{
+    float: left;
+    background-color: darkolivegreen;
+   
+}
+
+.second1 > sub {
+    vertical-align: top;
+}
+
+.second2{
+    float: left;
+    background-color: rgb(240, 231, 157) ;
+    
+}
+
+.second3{
+    float: left;
+    background-color: darkolivegreen;
+   
+}
+
+.second4{
+    
+    float: left;
+    background-color: rgb(240, 231, 157) ;
+
+}
+
+.second5{
+    float: left;
+    background-color: darkolivegreen;
+   
+}
+
+.second6{
+    float: left;
+    background-color: rgb(240, 231, 157) ;
+}
+
+.second7{
+    float: left;
+    background-color: darkolivegreen;
+    
+}
+
+.second8{
+    float: left;
+    background-color: rgb(240, 231, 157) ;
+}
+
+.thirdline{
+    float: left;
+   
+}
+
+.third1{
+    float: left;
+    background-color: rgb(240, 231, 157) ;
+    width: 100px ;
+    height: 100px ;
+}
+
+.third2{
+    float: left;
+    background-color: darkolivegreen;
+    width: 100px ;
+    height: 100px ;
+}
+
+.third3{
+    float: left;
+    background-color: rgb(240, 231, 157) ;
+    width: 100px ;
+    height: 100px ;
+}
+
+
+.third4{
+    float: left;
+    background-color: darkolivegreen;
+    width: 100px ;
+    height: 100px ;
+}
+
+.third5{
+    float: left;
+    background-color: rgb(240, 231, 157) ;
+    width: 100px ;
+    height: 100px ;
+}
+
+.third6{
+    float: left;
+    background-color: darkolivegreen;
+    width: 100px ;
+    height: 100px ;
+}
+
+.third7{
+    float: left;
+    background-color: rgb(240, 231, 157) ;
+    width: 100px ;
+    height: 100px ;
+}
+
+.third8{
+    float: left;
+    background-color: darkolivegreen;
+    width: 100px ;
+    height: 100px ;
+}
+
+.fourthline{
+    float: left;
+
+}
+
+.fourth1{
+    float: left;
+    background-color: darkolivegreen;
+    width: 100px ;
+    height: 100px ;
+}
+
+.fourth2{
+    background-color: rgb(240, 231, 157) ;
+    float: left;
+    width: 100px ;
+    height: 100px ;
+}
+
+.fourth3{
+    float: left;
+    background-color: darkolivegreen;
+    width: 100px ;
+    height: 100px ;
+
+}
+
+.fourth4{
+    float: left;
+    background-color: rgb(240, 231, 157) ;
+    width: 100px ;
+    height: 100px ;
+}
+
+.fourth5{
+    float: left;
+    background-color: darkolivegreen;
+    width: 100px ;
+    height: 100px ;
+}
+
+
+.fourth6{
+float: left;
+background-color:rgb(240, 231, 157) ;
+width: 100px ;
+height: 100px ;
+}
+
+.fourth7{
+    float: left;
+    background-color: darkolivegreen;
+    width: 100px ;
+    height: 100px ;
+}
+
+.fourth8{
+    float: left;
+    background-color:rgb(240, 231, 157) ;
+    width: 100px ;
+    height: 100px ;
+}
+
+.fifthline{
+    float: left;
+
+}
+
+.fifth1{
+    background-color: rgb(240, 231, 157) ;
+    float: left;
+    width: 100px ;
+    height: 100px ;
+}
+
+.fifth2{
+    float: left;
+    background-color: darkolivegreen;
+    width: 100px ;
+    height: 100px ;
+}
+
+.fifth3{
+    float: left;
+    background-color: rgb(240, 231, 157) ;
+    width: 100px ;
+    height: 100px ;
+
+}
+
+.fifth4{
+    float: left;
+    background-color: darkolivegreen;
+    width: 100px ;
+    height: 100px ;
+}
+
+.fifth5{
+    float: left;
+    background-color: rgb(240, 231, 157) ;
+    width: 100px ;
+    height: 100px ;
+}
+
+.fifth6{
+    float: left;
+    background-color: darkolivegreen;
+    width: 100px ;
+    height: 100px ;
+}
+
+.fifth7{
+    float: left;
+    background-color: rgb(240, 231, 157) ;
+    width: 100px ;
+    height: 100px ;
+
+}
+
+.fifth8{
+    float: left;
+    background-color: darkolivegreen;
+    width: 100px ;
+    height: 100px ;
+}
+
+.sixthline{
+    float: left;
+    
+}
+
+.sixth1{
+    float: left;
+    background-color: darkolivegreen;
+    width: 100px ;
+    height: 100px ;
+}
+
+.sixth2{
+    float: left;
+    background-color: rgb(240, 231, 157) ;
+    width: 100px ;
+    height: 100px ;
+}
+
+.sixth3{
+    float: left;
+    background-color: darkolivegreen;
+    width: 100px ;
+    height: 100px ;
+}
+
+.sixth4{
+    float: left;
+    background-color: rgb(240, 231, 157) ;
+    width: 100px ;
+    height: 100px ;
+}
+
+.sixth5{
+    float: left;
+    background-color: darkolivegreen;
+    width: 100px ;
+    height: 100px ;
+}
+
+.sixth6{
+    float: left;
+    background-color:rgb(240, 231, 157) ;
+    width: 100px ;
+    height: 100px ;
+}
+
+.sixth7{
+    float: left;
+    background-color: darkolivegreen;
+    width: 100px ;
+    height: 100px ;
+}
+
+.sixth8{
+    float: left;
+    background-color: rgb(240, 231, 157) ;
+    width: 100px ;
+    height: 100px ;
+}
+
+.seventhline{
+    float: left;
+}
+
+.seventh1{
+    float: left;
+    background-color:rgb(240, 231, 157) ;
+   
+}
+
+.seventh > sup {
+    width: 90px;
+}
+
+.seventh2{
+    float: left;
+    background-color: darkolivegreen;
+    
+}
+
+.seventh3{
+    float: left;
+    background-color: rgb(240, 231, 157) ;
+   
+}
+
+.seventh4{
+    float: left;
+    background-color: darkolivegreen;
+}
+
+.seventh5{
+    float: left;
+    background-color: rgb(240, 231, 157) ;
+   
+}
+
+
+.seventh6{
+    float: left;
+    background-color: darkolivegreen;
+  
+}
+
+.seventh7{
+    float: left;
+    background-color: rgb(240, 231, 157) ;
+   
+}
+
+.seventh8{
+    float: left;
+    background-color: darkolivegreen;
+  
+}
+
+.eightline{
+    float: left;
+}
+
+.eight1{
+    float: left;
+    background-color:crimson;
+   
+}
+
+.eight1 > sub {
+    vertical-align:top;
+    
+}
+
+.eight > sup {
+    vertical-align: bottom;
+}
+
+.eight2{
+    float: left;
+    background-color:rgb(240, 231, 157) ;
+   
+}
+
+.eight3{
+    float: left;
+    background-color: darkolivegreen;
+  
+}
+
+.eight4{
+    float: left;
+    background-color:rgb(240, 231, 157) ;   
+}
+
+.eight5{
+    float: left;
+    background-color: darkolivegreen;
+   
+}
+.eight6{
+    float: left;
+    background-color:rgb(240, 231, 157) ;   
+     
+}
+.eight7{
+    float: left;
+    background-color: darkolivegreen;
+  
+}
+
+.eight8{
+    float: left;
+    background-color:crimson;
+   
+}
